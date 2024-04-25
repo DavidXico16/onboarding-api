@@ -1,0 +1,6 @@
+com\onboarding\onboardingAPI\module\client\res\ClientController.class
+com\onboarding\onboardingAPI\module\client\repository\ClientRepository.class
+com\onboarding\onboardingAPI\OnboardingApiApplication.class
+com\onboarding\onboardingAPI\module\client\entity\ClientEntity.class
+com\onboarding\onboardingAPI\module\client\res\dto\ClientDTO.class
+com\onboarding\onboardingAPI\commons\constans\DatabaseConstant.class
